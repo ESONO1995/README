@@ -1,3 +1,3 @@
 # README
 
-mi first github repository
+It's a markdown file in this repository
